@@ -11,8 +11,10 @@
 <li>Create a new Account Using Gmail and Password</li>
 </ul>
 
-<img src="https://github.com/RomitKatrodiya/Login_Mechanism_App/blob/master/screenshots/Screenrecording-20221113-202707.GIF" style=" height:450px; " data-target="animated-image.originalImage">
+## Output GIF
 
-##
+<img src="https://github.com/RomitKatrodiya/Login_Mechanism_App/blob/master/screenshots/Screenrecording-20221113-202707.GIF" style=" height:600px; " data-target="animated-image.originalImage">
+
+## App UI
 
 ![App UI](/screenshots/Login-Mechanism-App.jpg)
